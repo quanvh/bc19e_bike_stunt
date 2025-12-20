@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3867171709594266074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3867171709594266076}
+  - component: {fileID: 3867171709594266077}
+  m_Layer: 0
+  m_Name: DataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3867171709594266076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3867171709594266074}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3867171709594266077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3867171709594266074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfada1f72ad6bb4ba4f1d12e3e32e54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carData: {fileID: 11400000, guid: 383c783f3e0a7be498304baea7e0f357, type: 2}
+  AutoUnlockMode: 0
+  levelData: {fileID: 11400000, guid: e75e01ddd07278e4aa88db11d2c51f6a, type: 2}
+  wheelData: {fileID: 11400000, guid: c8c5edb49c6c8c84ca07ae21009acc24, type: 2}
+  decalData: {fileID: 0}
+  volantData: {fileID: 0}
+  colorData: {fileID: 0}
+  charData: {fileID: 11400000, guid: e1ca9c2c39beac64b89720a2a790c405, type: 2}
+  helmetData: {fileID: 11400000, guid: 6e5f4892fa68ed442a9ae8f019893943, type: 2}
+  dataLoaded: 0
+  DebugMode: 0
+  AF_Conversion: 0
+  remoteConfig:
+    Version: 1.0
+    ShowUMP: 0
+    RemoteAds: 1
+    MoreGame: 0
+    ShowRemoveAds: 50
+    ShowInter: 1
+    UseAdmobInter: 1
+    UseAdmobReward: 1
+    UseAdmobBanner: 1
+    UseAdmobMrec: 1
+    UseAdmobInterSplash: 1
+    UseOpenAd: 1
+    UseNative: 0
+    TimeLeftNativeAds: 5
+    TimeVisibleClose: 3
+    TimeEnableClose: 1
+    TimeLoadBanner: 30
+    TimeLoadNative: 30
+    BannerSizeScale: 0.7
+    BannerSize: 240
+    DecreaseNativeBanner: 0
+    TimeLoadInter: 10
+    InterStartLevel: 1
+    InterStartFromLevel: 100
+    DurationBetweenAds: 0
+    TimeFirstInter: 1
+    TimeLoadOpenAds: 6
+    TimeAutoCloseAge: 11
+    TimeShowCloseAge: 2
+    AdsConfig: 
+    AdUnit: 
+    GameConfig: 
+  _player:
+    name: Bacon31083
+    organic: 0
+    age: 0
+    country: 
+    sound: 1
+    music: 1
+    quality: 3
+    vibrate: 1
+    driveDirect: 0
+    driveType: 0
+    currentGold: 0
+    currentGem: 0
+    currentCar: 1
+    currentChar: 0
+    currentHelmet: 0
+    currentLevel: 1
+    currentMode: 1
+    currentWheel: 1
+    currentDecal: 0
+    currentColor: 0
+    currentVolant: 1
+    dayLogin: 1
+    dailyReward: 0
+    dailyRewardShow: 0
+    dailyGacha: 1
+    dailySpin: 1
+    chooseAge: 0
+    chooseLang: 0
+    showRate: 0
+    vip: 0
+    subscriber: 0
+    removeAds: 0
+    completeCount: 0
+    spinCount: 0
+    gachaCount: 0
+    failCount: 0
+    levelData:
+    - ID: 1
+      Time: 0
+      Coin: 0
+      BestTime: 0
+      Star: 0
+      FirstTime: 1
+      Unlock: 1
+      Mode: 0
+    listCar:
+    - ID: 1
+      Ads: 0
+      Card: 0
+      Unlock: 1
+      Color: 0
+      FreeLuckySpinCustom: 1
+    listChar: []
+    listColor: []
+    listVolant: []
+    listDecal: []
+    listWheel: []
+    listHelmet: []
+    remoteConfig:
+      Version: 1.0
+      ShowUMP: 0
+      RemoteAds: 0
+      MoreGame: 0
+      ShowRemoveAds: 50
+      ShowInter: 1
+      UseAdmobInter: 0
+      UseAdmobReward: 0
+      UseAdmobBanner: 0
+      UseAdmobMrec: 0
+      UseAdmobInterSplash: 1
+      UseOpenAd: 1
+      UseNative: 0
+      TimeLeftNativeAds: 5
+      TimeVisibleClose: 3
+      TimeEnableClose: 1
+      TimeLoadBanner: 30
+      TimeLoadNative: 15
+      BannerSizeScale: 0.7
+      BannerSize: 360
+      DecreaseNativeBanner: 0
+      TimeLoadInter: 6
+      InterStartLevel: 0
+      InterStartFromLevel: 100
+      DurationBetweenAds: 0
+      TimeFirstInter: 1
+      TimeLoadOpenAds: 5
+      TimeAutoCloseAge: 10
+      TimeShowCloseAge: 3
+      AdsConfig: 
+      AdUnit: 
+      GameConfig: 
+    magnet: 0
+    nitro: 0
+    multiCoin: 0
+    trialCar: 0
+    version: 0
+    CoinFlip: 0
+    freeCoin: 0
+  sessionVip: 0
+  version: 0
+  appID_ios: 
+  bundle_android: com.dtt.e19.moto.bike.x3m
+  isLuckySpinCustom: 0
+  isUnlockMode: 0
+  modeToUnlock: 0

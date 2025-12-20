@@ -1,0 +1,18 @@
+{
+    "name": "BridgeBuilder25DLibEditor",
+    "references": [
+        "GUID:59b1ecee710529d4082d8528fbd8b8ed",
+        "GUID:498770d492c20ed4ca61b8d4592ce4b1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

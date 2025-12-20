@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182255a1c031cf54dbd49464b7ed1684, type: 3}
+  m_Name: DailyDataAsset
+  m_EditorClassIdentifier: 
+  type: 1
+  listItems:
+  - ID: 1
+    TargetID: 0
+    Type: 1
+    TargetType: 0
+    Value: 200
+    Name: Gold
+    Thumb: {fileID: 21300000, guid: 534b80f18f29ac64fa4f18ae195f5853, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1
+  - ID: 2
+    TargetID: 0
+    Type: 1
+    TargetType: 0
+    Value: 500
+    Name: Gold
+    Thumb: {fileID: 21300000, guid: 3d1e0b32899563a43a09656cb8fe760a, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1
+  - ID: 3
+    TargetID: 0
+    Type: 1
+    TargetType: 0
+    Value: 700
+    Name: Gold
+    Thumb: {fileID: 21300000, guid: a8c2de184c06ec0459142510ef5e5e82, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1
+  - ID: 4
+    TargetID: 0
+    Type: 1
+    TargetType: 0
+    Value: 800
+    Name: Gold
+    Thumb: {fileID: 21300000, guid: d56451c9120ac0647a7e1611c1c74a45, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1
+  - ID: 5
+    TargetID: 0
+    Type: 1
+    TargetType: 0
+    Value: 1000
+    Name: Gold
+    Thumb: {fileID: 21300000, guid: fb163f9afc7dbc645be49a95ab7fe0fb, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1
+  - ID: 6
+    TargetID: 0
+    Type: 3
+    TargetType: 0
+    Value: 14
+    Name: Bike
+    Thumb: {fileID: 21300000, guid: fd8533aec84411242a3d7a9c0e9e947e, type: 3}
+    Icon: {fileID: 0}
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    IsFree: 1

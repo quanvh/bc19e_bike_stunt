@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae382363137f9445b3c2aaa78f04de8, type: 3}
+  m_Name: WheelDataAsset
+  m_EditorClassIdentifier: 
+  type: 3
+  listItems:
+  - ID: 1
+    Unlock: 1
+    Price: 0
+    UnlockType: 0
+    Name: Wheel 1
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 4328304347004317191, guid: 19bd3cea65ec76d4e9785ed75f51e2c9,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: fea2a30e48b5db34b8c8623200e928af, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 2
+    Unlock: 0
+    Price: 5000
+    UnlockType: 1
+    Name: Wheel 2
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 4983546061307425902, guid: 28a7d40e9e742eb4b921f9c107e85343,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: c267c03f73f88654b9fbf8bff4e7ceca, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 1
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 3
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Wheel 3
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 7462457177911052369, guid: 762a956c163f5b14cbe1ff6135941555,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: a9a1f1dcff543cb4b8efccf41623cd70, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 4
+    Unlock: 0
+    Price: 10000
+    UnlockType: 1
+    Name: Wheel 4
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 8538385839254504214, guid: 340c1e2342f1b3c49bd0fb2f3e4be056,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 809c986c24e01b34abf04380277e949c, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 5
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Wheel 5
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 5486011505889604887, guid: db242f746f151024d966ee2a1ba7d410,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 35f03e37f4a892f4d953c435b5b66a42, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 6
+    Unlock: 0
+    Price: 20000
+    UnlockType: 1
+    Name: Wheel 6
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 4701829190221135510, guid: 521a0f2630420944cb59cbdec2c07473,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: cfa926437ec3dcc4f990b504df23f935, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 7
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Wheel 7
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 2175143653267125330, guid: 8c2503bb598337948ba06d4fefd13d79,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 9009dc05507b5fe46b589c80a2bb500e, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 8
+    Unlock: 0
+    Price: 20000
+    UnlockType: 1
+    Name: Wheel 8
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 2540817623470559086, guid: 7dadcb2c8246ec245be0584a28194ede,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: b2b36fe604e49184ab37dd3c2c1662e9, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 9
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Wheel 9
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 5863741393798514705, guid: 1779bde5ef19aeb419de9f59d60c7a2f,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 0a2ea8c077a90d5478ae0732b0453128, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 2
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 10
+    Unlock: 0
+    Price: 20000
+    UnlockType: 1
+    Name: Wheel 10
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 6660893657370568443, guid: 0b3dc91c0c73fd1439005788b72e15b7,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: f5383efc994ac5c41a09708fed10bc0d, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 11
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Wheel 11
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 8915022635293612893, guid: c1d49e089e4476d4b97f8be7766aba05,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 134293318bbab3940b0c960954b39d4d, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 12
+    Unlock: 0
+    Price: 20000
+    UnlockType: 1
+    Name: Wheel 12
+    Mat: {fileID: 0}
+    Type: 3
+    Source: {fileID: 2944939649990773319, guid: d6ef06fee2695484db746bd20069acaf,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 7ffd93b15c94ee3408f3690f394eb0e3, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    IsFreeLuckySpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0

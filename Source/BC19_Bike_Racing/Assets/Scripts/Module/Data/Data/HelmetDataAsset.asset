@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae382363137f9445b3c2aaa78f04de8, type: 3}
+  m_Name: HelmetDataAsset
+  m_EditorClassIdentifier: 
+  type: 7
+  listItems:
+  - ID: 1
+    Unlock: 1
+    Price: 0
+    UnlockType: 0
+    Name: Helmet 1
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 193778904351401586, guid: d5c00dba453359244a08bdd738ea6872, type: 3}
+    Thumb: {fileID: 21300000, guid: 44301873ce150a947b95fb9d6e3e29ce, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 2
+    Unlock: 0
+    Price: 5000
+    UnlockType: 1
+    Name: Helmet 2
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 4920278109979106227, guid: 2c315c2811ae02a45a868a5e1db4d1b2,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: bf76f6cef0c2db548813c4d31f7e9bd8, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 1
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 3
+    Unlock: 0
+    Price: 2
+    UnlockType: 3
+    Name: Helmet 3
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 7640035147965518743, guid: 7df71da446e4f3d4a8a30e201b4921a4,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 36816c85e9400e34cabd7ea3424d9670, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 1
+    PriceAds: 1
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 4
+    Unlock: 0
+    Price: 10000
+    UnlockType: 5
+    Name: Helmet 4
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 1248433642826928544, guid: b7649bf4cd3da07439d7f6f7f3d8a18f,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 3aabed2c5692bf541bcf69c93636a92b, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 9
+    PriceCard: 3
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 5
+    Unlock: 0
+    Price: 3
+    UnlockType: 3
+    Name: Helmet 5
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 193463740015819725, guid: 2cbd7d0a0e7cb2942b8110737b0b5b60, type: 3}
+    Thumb: {fileID: 21300000, guid: 2efd42f3efd9f2a4bbecd0470072c587, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 1
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 6
+    Unlock: 0
+    Price: 20000
+    UnlockType: 5
+    Name: Helmet 6
+    Description: 
+    Mat: {fileID: 0}
+    Type: 7
+    Source: {fileID: 4291353578598641804, guid: d9b1c16208e347a4d9558cc6d28109c0,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: adcd883b3461fd949a4900e84a22a64f, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 10
+    PriceCard: 5
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0

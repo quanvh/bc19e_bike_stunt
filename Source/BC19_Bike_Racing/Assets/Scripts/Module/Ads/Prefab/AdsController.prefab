@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8105420983750087729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8105420983750087727}
+  - component: {fileID: 613499561935592825}
+  m_Layer: 0
+  m_Name: AdsController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8105420983750087727
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8105420983750087729}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &613499561935592825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8105420983750087729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77ab5443b3264ac438fc5a4f40ada59e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  smallBannerLoading: 0
+  hideApp: 0
+  adCount: 0
+  gameLoaded: 0
+  Mediation: 0
+  disableMediation: 0
+  iOSPause: 0
+  RaiseOnMainThread: 1
+  ExecuteInUpdate: 1
+  useSmallBanner: 0
+  collapseBanner: 0
+  adaptiveBanner: 0
+  small_banner_pos: 4
+  small_banner_android: []
+  small_banner_ios: []
+  useMrecOpen: 1
+  mrec_banner:
+  - mrecName: 1
+    ForceLoadOnCall: 1
+    mrec_pos: 3
+    mrec_offset: {x: 0, y: -20}
+    mrec_android:
+    - ca-app-pub-3940256099942544/6300978111
+    mrec_ios: []
+    timeExpire: 90
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+  - mrecName: 4
+    ForceLoadOnCall: 0
+    mrec_pos: 2
+    mrec_offset: {x: 0, y: 0}
+    mrec_android:
+    - ca-app-pub-3940256099942544/6300978111
+    mrec_ios: []
+    timeExpire: 90
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+  - mrecName: 3
+    ForceLoadOnCall: 0
+    mrec_pos: 2
+    mrec_offset: {x: 0, y: 0}
+    mrec_android:
+    - ca-app-pub-3940256099942544/6300978111
+    mrec_ios: []
+    timeExpire: 90
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+  - mrecName: 2
+    ForceLoadOnCall: 0
+    mrec_pos: 2
+    mrec_offset: {x: 0, y: 0}
+    mrec_android:
+    - ca-app-pub-3940256099942544/6300978111
+    mrec_ios: []
+    timeExpire: 90
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+  InterAds:
+  - interName: 1
+    preload: 0
+    useNative: 0
+    inter_android:
+    - ca-app-pub-3940256099942544/1033173712
+    inter_ios: []
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+    isReady: 0
+  - interName: 2
+    preload: 1
+    useNative: 0
+    inter_android:
+    - ca-app-pub-3940256099942544/1033173712
+    inter_ios: []
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+    isReady: 0
+  RewardAds:
+  - rewardName: 1
+    preload: 1
+    rw_android:
+    - ca-app-pub-3940256099942544/5224354917
+    rw_ios: []
+    cappingFail: 0
+    cappingTime: 30
+    isLoading: 0
+  useAppOpen: 1
+  preloadAdOpen: 0
+  openad_android:
+  - ca-app-pub-3940256099942544/9257395921
+  openad_ios: []
+  NativeAds:
+  - nativeName: 3
+    native_android:
+    - ca-app-pub-3940256099942544/2247696110
+    native_ios: []
+    adIconSprite: {fileID: 21300000, guid: e87d7d04a9d461842ba6aeb2b81c0e9c, type: 3}
+    firstClickNative: 0
+    isLoading: 0
+    bannerSizeH: 240
+  logDebug: 0
+  loadOpenAd: 0

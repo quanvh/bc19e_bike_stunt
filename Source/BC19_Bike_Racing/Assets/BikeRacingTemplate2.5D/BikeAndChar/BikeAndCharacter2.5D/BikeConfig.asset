@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88df28341cdb0354c8e657399c54e56f, type: 3}
+  m_Name: BikeConfig
+  m_EditorClassIdentifier: 
+  BikeGravityScale: 1.2
+  BikeAngularDrag: 30
+  BikeAngularDragInAir: 120
+  BikeBodyMass: 90
+  BikeWheelMass: 5
+  BikeMaxMotorSpeed: 20000
+  BikeMaxMotorTorque: 580
+  BikeMaxMotorTorqueOnSlopes: 650
+  BikeMotorSpeedIncrement: 200
+  BrakeForceAttackDuration: 0.5
+  BrakeForce: 1500
+  BikeMaxVelocity: 32.7
+  BikeMaxVelocityWithBoostMultiplier: 1.1
+  BikeTorqueForce: 1100
+  BikeMoveRotation: 75
+  BikeBackWheelDownForceOnSlopes: 600

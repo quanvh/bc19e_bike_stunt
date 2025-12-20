@@ -1,0 +1,644 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae20cf2a0f6d2244ab5837408156ab35, type: 3}
+  m_Name: TerrainLevel18
+  m_EditorClassIdentifier: 
+  CameraZoom: {x: 4.5, y: -29.48, z: -96.7}
+  Shapes:
+  - Mode2D: 0
+    CombinationType: 0
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Points:
+    - ID: 1
+      Name: 
+      Position: {x: -75.333725, y: -21.499619, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: -0, z: -0}
+      Handle2Pos: {x: 5, y: 0, z: 0}
+    - ID: 2
+      Name: 
+      Position: {x: -59.818718, y: -35.059616, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: -0, z: 0}
+      Handle2Pos: {x: 5, y: 0, z: -0}
+    - ID: 3
+      Name: 
+      Position: {x: -44.30372, y: -21.499619, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: 0, z: 0}
+      Handle2Pos: {x: 5, y: -0, z: -0}
+    - ID: 4
+      Name: 
+      Position: {x: -16.903717, y: -13.559616, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: -0, z: 0}
+      Handle2Pos: {x: 5, y: 0, z: -0}
+    - ID: 5
+      Name: 
+      Position: {x: -0.80371857, y: -27.459618, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: -0, z: 0}
+      Handle2Pos: {x: 5, y: 0, z: -0}
+    - ID: 6
+      Name: 
+      Position: {x: 10.966278, y: -3.0496178, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5, y: -0, z: 0}
+      Handle2Pos: {x: 5, y: 0, z: -0}
+    - ID: 7
+      Name: 
+      Position: {x: 27.574532, y: -7.320862, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -7.0272217, y: 4.2405624, z: -0}
+      Handle2Pos: {x: 7.0272217, y: -4.2405624, z: 0}
+    - ID: 8
+      Name: 
+      Position: {x: 52.910156, y: -12.63385, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -6.9979553, y: -3.2930794, z: -0}
+      Handle2Pos: {x: 6.9979553, y: 3.2930794, z: 0}
+    - ID: 9
+      Name: 
+      Position: {x: 62.246063, y: 1.4335518, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 0.013381958, y: -4.8076134, z: -0}
+      Handle2Pos: {x: -0.013381958, y: 4.8076134, z: 0}
+    - ID: 10
+      Name: 
+      Position: {x: 58.37819, y: 11.683342, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1.1308136, y: -2.0282211, z: 0}
+      Handle2Pos: {x: -1.1308136, y: 2.0282211, z: -0}
+    - ID: 11
+      Name: 
+      Position: {x: 82.79628, y: 14.440384, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -3, y: -0, z: -0}
+      Handle2Pos: {x: 3, y: 0, z: 0}
+    - ID: 12
+      Name: 
+      Position: {x: 112.79628, y: 14.440384, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -3.9697742, y: 0.49080667, z: -0}
+      Handle2Pos: {x: 1, y: 0, z: 0}
+    - ID: 13
+      Name: 
+      Position: {x: 112.79628, y: -98, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1, y: -0, z: -0}
+      Handle2Pos: {x: -1, y: 0, z: 0}
+    - ID: 14
+      Name: 
+      Position: {x: -104.75372, y: -98, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1, y: 0, z: 0}
+      Handle2Pos: {x: -1, y: -0, z: -0}
+    - ID: 15
+      Name: 
+      Position: {x: -104.75372, y: -5.8422813, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -1, y: 0, z: 0}
+      Handle2Pos: {x: 1, y: -0, z: -0}
+    - ID: 16
+      Name: 
+      Position: {x: -96.46372, y: -8.479614, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -0.7150707, y: 2.7410984, z: -0}
+      Handle2Pos: {x: 0.7150707, y: -2.7410984, z: 0}
+    - ID: 17
+      Name: 
+      Position: {x: -92.20372, y: -24.259613, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5.0439243, y: 0.9070573, z: -0}
+      Handle2Pos: {x: 5.0439243, y: -0.9070573, z: 0}
+  - Mode2D: 0
+    CombinationType: 0
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Points:
+    - ID: 1
+      Name: 
+      Position: {x: 55.580307, y: 10.396496, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -0.22930145, y: 0.10882568, z: 0}
+      Handle2Pos: {x: 3.6662788, y: -3.917841, z: 0}
+    - ID: 2
+      Name: 
+      Position: {x: 55.3049, y: -6.935089, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 5.734188, y: 5.976513, z: -0}
+      Handle2Pos: {x: -5.734188, y: -5.976513, z: 0}
+    - ID: 3
+      Name: 
+      Position: {x: 39.18132, y: -8.220291, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 2.3037872, y: -2.0434608, z: -0}
+      Handle2Pos: {x: -2.3037872, y: 2.0434608, z: 0}
+    - ID: 4
+      Name: 
+      Position: {x: 34.209488, y: -3.044075, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 2.0821457, y: -2.6092682, z: 0}
+      Handle2Pos: {x: -2.0821457, y: 2.6092682, z: -0}
+    - ID: 5
+      Name: 
+      Position: {x: 36.805122, y: 15.295197, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -7.8330193, y: -6.701586, z: 0}
+      Handle2Pos: {x: 7.8330193, y: 6.701586, z: -0}
+    - ID: 6
+      Name: 
+      Position: {x: 56.18428, y: 15.212379, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -3.4885406, y: 3.364685, z: 0}
+      Handle2Pos: {x: 0.08369064, y: -0.25145912, z: 0}
+    - ID: 7
+      Name: 
+      Position: {x: 55.802277, y: 14.894382, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 0.25151825, y: -0.10618019, z: 0}
+      Handle2Pos: {x: -3.5726166, y: 3.2498894, z: 0}
+    - ID: 8
+      Name: 
+      Position: {x: 37.132004, y: 14.889, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 7.3973293, y: 6.2699795, z: -0}
+      Handle2Pos: {x: -7.3973293, y: -6.2699795, z: 0}
+    - ID: 9
+      Name: 
+      Position: {x: 34.602585, y: -2.7570724, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -2.082146, y: 2.609268, z: -0}
+      Handle2Pos: {x: 2.082146, y: -2.609268, z: 0}
+    - ID: 10
+      Name: 
+      Position: {x: 39.612007, y: -7.890999, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -2.303788, y: 2.043461, z: 0}
+      Handle2Pos: {x: 2.303788, y: -2.043461, z: -0}
+    - ID: 11
+      Name: 
+      Position: {x: 54.96701, y: -6.6399994, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5.734188, y: -5.976513, z: -0}
+      Handle2Pos: {x: 5.734188, y: 5.976513, z: 0}
+    - ID: 12
+      Name: 
+      Position: {x: 55.22403, y: 10.096111, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 3.5323372, y: -4.0341625, z: 0}
+      Handle2Pos: {x: -0.053749084, y: 0.2596531, z: 0}
+  - Mode2D: 0
+    CombinationType: 0
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Points:
+    - ID: 1
+      Name: 
+      Position: {x: 53.356277, y: 8.3003845, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -0.22930145, y: 0.10882568, z: 0}
+      Handle2Pos: {x: 3.6662788, y: -3.917841, z: 0}
+    - ID: 2
+      Name: 
+      Position: {x: 53.222015, y: -4.8010025, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 3.526268, y: 3.6979446, z: -0}
+      Handle2Pos: {x: -3.526268, y: -3.6979446, z: 0}
+    - ID: 3
+      Name: 
+      Position: {x: 41.301315, y: -6.0702896, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 2.3037872, y: -2.0434608, z: -0}
+      Handle2Pos: {x: -2.3037872, y: 2.0434608, z: 0}
+    - ID: 4
+      Name: 
+      Position: {x: 36.75891, y: -1.2779999, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 2.0821457, y: -2.6092682, z: 0}
+      Handle2Pos: {x: -2.0821457, y: 2.6092682, z: -0}
+    - ID: 5
+      Name: 
+      Position: {x: 38.87201, y: 13.049, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -5.6883507, y: -4.9729786, z: 0}
+      Handle2Pos: {x: 5.6883507, y: 4.9729786, z: -0}
+    - ID: 6
+      Name: 
+      Position: {x: 53.976273, y: 12.910385, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -2.9760284, y: 3.0120163, z: 0}
+      Handle2Pos: {x: 0.085006714, y: -0.25549698, z: 0}
+    - ID: 7
+      Name: 
+      Position: {x: 53.59427, y: 12.592388, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 0.25668716, y: -0.103206635, z: 0}
+      Handle2Pos: {x: -3.0616455, y: 2.9233894, z: 0}
+    - ID: 8
+      Name: 
+      Position: {x: 39.19889, y: 12.642799, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 5.325306, y: 4.6459465, z: 0}
+      Handle2Pos: {x: -5.325306, y: -4.6459465, z: -0}
+    - ID: 9
+      Name: 
+      Position: {x: 37.152008, y: -0.9909973, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -2.082146, y: 2.609268, z: -0}
+      Handle2Pos: {x: 2.082146, y: -2.609268, z: 0}
+    - ID: 10
+      Name: 
+      Position: {x: 41.73201, y: -5.7409973, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -2.303788, y: 2.043461, z: 0}
+      Handle2Pos: {x: 2.303788, y: -2.043461, z: -0}
+    - ID: 11
+      Name: 
+      Position: {x: 52.88411, y: -4.505905, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -3.290512, y: -3.3872986, z: 0}
+      Handle2Pos: {x: 3.290512, y: 3.3872986, z: -0}
+    - ID: 12
+      Name: 
+      Position: {x: 53, y: 8, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 3.5323372, y: -4.0341625, z: 0}
+      Handle2Pos: {x: -0.053749084, y: 0.2596531, z: 0}
+  - Mode2D: 0
+    CombinationType: 0
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Points:
+    - ID: 1
+      Name: 
+      Position: {x: 51.060013, y: 6.3219986, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -0.22930145, y: 0.10882568, z: 0}
+      Handle2Pos: {x: 2.8836098, y: -3.1197357, z: 0}
+    - ID: 2
+      Name: 
+      Position: {x: 50.988007, y: -2.6809998, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 2.0795975, y: 2.2074165, z: 0}
+      Handle2Pos: {x: -2.0795975, y: -2.2074165, z: -0}
+    - ID: 3
+      Name: 
+      Position: {x: 43.083008, y: -3.538002, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1.9767075, y: -1.7768822, z: -0}
+      Handle2Pos: {x: -1.9767075, y: 1.7768822, z: 0}
+    - ID: 4
+      Name: 
+      Position: {x: 39.12391, y: 0.45700073, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1.7568016, y: -2.24374, z: 0}
+      Handle2Pos: {x: -1.7568016, y: 2.24374, z: -0}
+    - ID: 5
+      Name: 
+      Position: {x: 40.915115, y: 10.835197, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -3.6322098, y: -3.078514, z: 0}
+      Handle2Pos: {x: 3.6322098, y: 3.078514, z: -0}
+    - ID: 6
+      Name: 
+      Position: {x: 51.6931, y: 10.60738, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -2.7056427, y: 2.4279823, z: 0}
+      Handle2Pos: {x: 0.085006714, y: -0.25549698, z: 0}
+    - ID: 7
+      Name: 
+      Position: {x: 51.311096, y: 10.289383, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 0.25668716, y: -0.103206635, z: 0}
+      Handle2Pos: {x: -2.5676117, y: 2.1157074, z: 0}
+    - ID: 8
+      Name: 
+      Position: {x: 41.242004, y: 10.429001, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 3.4061127, y: 2.9348507, z: -0}
+      Handle2Pos: {x: -3.4061127, y: -2.9348507, z: 0}
+    - ID: 9
+      Name: 
+      Position: {x: 39.517006, y: 0.7440033, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -1.556694, y: 1.985733, z: -0}
+      Handle2Pos: {x: 1.556694, y: -1.985733, z: 0}
+    - ID: 10
+      Name: 
+      Position: {x: 43.466003, y: -3.2399979, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -1.7893028, y: 1.5426826, z: 0}
+      Handle2Pos: {x: 1.7893028, y: -1.5426826, z: -0}
+    - ID: 11
+      Name: 
+      Position: {x: 50.6501, y: -2.3859024, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -1.8327751, y: -1.9065704, z: 0}
+      Handle2Pos: {x: 1.8327751, y: 1.9065704, z: -0}
+    - ID: 12
+      Name: 
+      Position: {x: 50.703735, y: 6.021614, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 2.7595139, y: -3.0107765, z: 0}
+      Handle2Pos: {x: -0.053749084, y: 0.2596531, z: 0}
+  - Mode2D: 0
+    CombinationType: 0
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Points:
+    - ID: 1
+      Name: 
+      Position: {x: 49.594467, y: 4.4932365, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 0.0685997, y: 0.20405579, z: 0}
+      Handle2Pos: {x: -1.3827324, y: -1.486702, z: 0}
+    - ID: 2
+      Name: 
+      Position: {x: 47.166275, y: 2.249382, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 0.94776917, y: 0.914917, z: -0}
+      Handle2Pos: {x: -0.94776917, y: -0.914917, z: 0}
+    - ID: 3
+      Name: 
+      Position: {x: 42.319916, y: 2.7579956, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1.4290161, y: -1.7222977, z: 0}
+      Handle2Pos: {x: -1.4290161, y: 1.7222977, z: -0}
+    - ID: 4
+      Name: 
+      Position: {x: 43.061127, y: 8.519199, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -2.3092537, y: -1.9058247, z: 0}
+      Handle2Pos: {x: 2.3092537, y: 1.9058247, z: -0}
+    - ID: 5
+      Name: 
+      Position: {x: 49.54509, y: 8.504379, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -1.3869629, y: 1.0820408, z: 0}
+      Handle2Pos: {x: 0.085006714, y: -0.25549698, z: 0}
+    - ID: 6
+      Name: 
+      Position: {x: 49.163086, y: 8.186382, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: 0.25668716, y: -0.103206635, z: 0}
+      Handle2Pos: {x: -1.8744965, y: 1.2677193, z: 0}
+    - ID: 7
+      Name: 
+      Position: {x: 43.388, y: 8.112999, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: 1.8013992, y: 1.4747162, z: -0}
+      Handle2Pos: {x: -1.8013992, y: -1.4747162, z: 0}
+    - ID: 8
+      Name: 
+      Position: {x: 42.713013, y: 3.0449982, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -1.3260345, y: 1.6536751, z: -0}
+      Handle2Pos: {x: 1.3260345, y: -1.6536751, z: 0}
+    - ID: 9
+      Name: 
+      Position: {x: 46.82837, y: 2.5444717, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 0
+      Handle1Pos: {x: -0.66607666, y: -0.50730515, z: 0}
+      Handle2Pos: {x: 0.66607666, y: 0.50730515, z: -0}
+    - ID: 10
+      Name: 
+      Position: {x: 49.25328, y: 4.768383, z: 0}
+      Rotation: {x: -0, y: 0, z: 0}
+      HandleType: 1
+      Handle1Pos: {x: -0.99409866, y: -1.0656967, z: 0}
+      Handle2Pos: {x: 0.24546814, y: 0.09321976, z: 0}
+  Objects:
+  - ID: 0
+    Name: StartPoint
+    Position: {x: -87.20039, y: -24.017967, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: CheckPoint
+    Position: {x: 32.788597, y: -9.8979645, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: FinishPoint
+    Position: {x: 87.80861, y: 14.662037, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 42.245148, y: 17.119995, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 40.75, y: 16.34, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 39.2, y: 15.44, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 51.14, y: -5.07, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 49.89, y: -5.68, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 48.46, y: -6.18, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 44.03, y: 3.12, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 43.52, y: 7.13, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 42.78, y: 5.75, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 42.95, y: 4.16, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  - ID: 0
+    Name: coins
+    Position: {x: 45.63, y: 2.78, z: 0}
+    Rotation: {x: -0, y: 180, z: -0}
+    HandleType: 0
+    Handle1Pos: {x: 0, y: 0, z: 0}
+    Handle2Pos: {x: 0, y: 0, z: 0}
+  foliagePos:
+  - Position:
+    - {x: 109.03071, y: 14.507116, z: 1.347615}
+    - {x: -100.65671, y: -6.235107, z: 1.735348}
+    - {x: -74.640465, y: -21.935602, z: -2.8074298}
+    - {x: -32.924297, y: -18.570713, z: -2.598781}
+    - {x: -23.210777, y: -15.537381, z: -3.24199}
+    - {x: 15.446104, y: -3.2924244, z: -1.8557913}
+    - {x: 36.494072, y: 14.717045, z: -2.455159}
+    - {x: 36.494072, y: -11.787128, z: -2.455159}
+    - {x: 49.025093, y: 18.764029, z: -1.6000278}
+    - {x: 49.025093, y: 15.620928, z: -1.6000278}
+    - {x: 49.025093, y: 12.136948, z: -1.6000278}
+    - {x: 49.025093, y: 8.757929, z: -1.6000278}
+    - {x: 49.025093, y: 4.4454803, z: -1.6000278}
+    - {x: 49.025093, y: -3.596191, z: -1.6000278}
+    - {x: 49.025093, y: -6.8840127, z: -1.6000278}
+    - {x: 49.025093, y: -10.109073, z: -1.6000278}
+    - {x: 49.025093, y: -13.741107, z: -1.6000278}
+    - {x: -84.24391, y: -23.413572, z: 1.2675879}
+    - {x: -21.647024, y: -14.890207, z: 2.6446738}
+    - {x: 18.776192, y: -3.7587082, z: 1.6660297}
+    - {x: 85.54188, y: 14.404955, z: 1.2311757}
+  - Position:
+    - {x: -102.02993, y: -6.2028236, z: 2.3651755}
+    - {x: -102.43502, y: -6.1682854, z: -2.6942406}
+    - {x: -101.87665, y: -6.1443157, z: -2.297466}
+    - {x: -96.86433, y: -7.8138046, z: -1.4542425}
+    - {x: -75.93267, y: -22.532497, z: -3.7974439}
+    - {x: -35.00146, y: -19.285496, z: -2.4401333}
+    - {x: -24.202412, y: -15.390286, z: -1.4065573}
+    - {x: -17.880531, y: -14.299036, z: -3.3684058}
+    - {x: 10.341314, y: -3.4518683, z: -1.621681}
+    - {x: 26.958574, y: -7.049732, z: -1.2426803}
+    - {x: 45.27393, y: 18.7444, z: -2.8695803}
+    - {x: 45.27393, y: 15.653205, z: -2.8695803}
+    - {x: 45.27393, y: -13.9797735, z: -2.8695803}
+    - {x: 72.34537, y: 13.364687, z: -3.484161}
+    - {x: 85.137665, y: 14.199821, z: -2.7447138}
+    - {x: 90.93613, y: 14.317186, z: -2.5862155}
+    - {x: 99.24621, y: 14.535424, z: -1.6059072}
+    - {x: -75.959274, y: -21.80606, z: 2.3990686}
+    - {x: -55.566483, y: -32.64029, z: 1.8776662}
+    - {x: -16.5498, y: -13.967959, z: 2.534433}
+    - {x: 28.42647, y: -8.005238, z: 2.119952}
+    - {x: 38.67456, y: -12.671988, z: 2.640689}
+    - {x: 53.359486, y: -12.56252, z: 2.06301}
+  - Position: []
+  Bridges:
+  - Position: {x: -82.94189, y: 56.063805, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Scale: {x: 1, y: 1, z: 1}
+    Pos1: {x: 9.115, y: -77.936, z: 0}
+    Handle1: {x: -2.0027199, y: 0.0014801025, z: 0}
+    Pos2: {x: 37.11, y: -77.945, z: 0}
+    Handle2: {x: 2.6937218, y: -0.0032043457, z: 0}
+  - Position: {x: 3.4360657, y: 69.730385, z: 0}
+    Rotation: {x: -0, y: 0, z: 0}
+    Scale: {x: 1, y: 1, z: 1}
+    Pos1: {x: -19.067, y: -83.613, z: 0}
+    Handle1: {x: -4.1830482, y: -1.689949, z: 0}
+    Pos2: {x: 6.118, y: -73.463, z: 0}
+    Handle2: {x: 3.6305523, y: 1.4978409, z: 0}

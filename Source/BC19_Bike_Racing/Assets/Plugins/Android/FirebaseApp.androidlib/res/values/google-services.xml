@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">46522853466</string>
+  <string name="google_storage_bucket" translatable="false">b01-bike-stunt.firebasestorage.app</string>
+  <string name="project_id" translatable="false">b01-bike-stunt</string>
+  <string name="google_api_key" translatable="false">AIzaSyChEM63vJ9rcj_uMS_09oyzyheXpXti1RU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChEM63vJ9rcj_uMS_09oyzyheXpXti1RU</string>
+  <string name="google_app_id" translatable="false">1:46522853466:android:5b15a27458e88b84f71063</string>
+</resources>

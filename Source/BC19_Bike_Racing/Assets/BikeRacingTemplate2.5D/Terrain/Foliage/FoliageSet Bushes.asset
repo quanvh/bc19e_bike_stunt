@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e41c55a6647612c4493809059864ce8a, type: 3}
+  m_Name: FoliageSet Bushes
+  m_EditorClassIdentifier: 
+  PrefabRatios:
+  - Ratio: 1
+    Prefab: {fileID: 1816618985694291894, guid: 0f896af2d68b3dd43b1939529804662c,
+      type: 3}
+    MaterialRatios:
+    - MaterialIndex: 0
+      Ratio: 10
+      Material: {fileID: 2100000, guid: 364b0f49fe0b8b940b40858968f386f5, type: 2}
+    - MaterialIndex: 0
+      Ratio: 1
+      Material: {fileID: 2100000, guid: 02df5e35638bcaa43a0531f72e8cd06b, type: 2}
+  - Ratio: 1
+    Prefab: {fileID: 4038087900371675954, guid: 03ca9e4e7414d7e408b52820c6211cb6,
+      type: 3}
+    MaterialRatios:
+    - MaterialIndex: 0
+      Ratio: 1
+      Material: {fileID: 2100000, guid: 364b0f49fe0b8b940b40858968f386f5, type: 2}
+    - MaterialIndex: 0
+      Ratio: 1
+      Material: {fileID: 2100000, guid: 02df5e35638bcaa43a0531f72e8cd06b, type: 2}
+  DensityFront: 0.121
+  DensityBack: 0.36
+  DensityMinDistance: 0.1
+  DensityMaxDistance: 5
+  PlaceInCaves: 1
+  AllowUpsideDown: 0
+  Margin: 4
+  PlaceInMiddle: 0
+  MiddleWidthOverlap: -0.2
+  DepthLimitFront: -0.1
+  DepthLimitBack: 4
+  DepthCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  MinScale: 0.5
+  MaxScale: 1.3
+  AlignRotationWithTerrain: 0
+  UseMeshNormalsForAlignment: 0
+  RotYVarianceInDeg: 360
+  RotZVarianceInDeg: 10
+  GroundIntersection: 0.1
+  SlopeLimit: 0.305

@@ -1,0 +1,21 @@
+{
+    "name": "BikeRacingGameTemplate",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3a649511994177c4cb4e36246fa448aa",
+        "GUID:f2f5b768db43cf148bb46635d7685498",
+        "GUID:0184176e4843b884aa6b6b9363f33f80",
+        "GUID:59b1ecee710529d4082d8528fbd8b8ed",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:24c7cb7011ca1944fa204f27a9145e13"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,110 @@
+{
+  "code": "200",
+  "game": {
+    "platform": "ios",
+    "packageId": "com.bc19.moto.bike.x3m.race.extreme.game"
+  },
+  "versions": [
+    {
+      "code": "1.0.0",
+      "mediations": [
+        {
+          "code": "ADMOB",
+          "appCode": "ca-app-pub-5904408074441373~4070965774",
+          "adUnits": [
+            {
+              "name": "",
+              "format": "Rewarded",
+              "id": "",
+              "placement": "RewardedDefault"
+            },
+            {
+              "name": "",
+              "format": "Banner",
+              "id": "",
+              "placement": "MrecOpen"
+            },
+            {
+              "name": "",
+              "format": "Interstitial",
+              "id": "",
+              "placement": "InterOpen"
+            },
+            {
+              "name": "",
+              "format": "Interstitial",
+              "id": "",
+              "placement": "InterDefault"
+            },
+            {
+              "name": "",
+              "format": "Banner",
+              "id": "",
+              "placement": "MrecDefault"
+            },
+            {
+              "name": "",
+              "format": "Banner",
+              "id": "",
+              "placement": "BannerDefault"
+            },
+            {
+              "name": "",
+              "format": "AppOpen",
+              "id": "",
+              "placement": "AppOpenDefault"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeOpen"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeResult"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeDaily"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeLevel"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeIngame"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeDefault"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeInter"
+            },
+            {
+              "name": "",
+              "format": "Native",
+              "id": "",
+              "placement": "NativeAge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae382363137f9445b3c2aaa78f04de8, type: 3}
+  m_Name: CharacterDataAsset
+  m_EditorClassIdentifier: 
+  type: 6
+  listItems:
+  - ID: 1
+    Unlock: 1
+    Price: 0
+    UnlockType: 0
+    Name: Character 1
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 2752130786565944864, guid: b9fa070b3fd4ede4aabaf7ad499d4780,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: cd9125b7eb5082d4fb31829d5f3166bc, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 2
+    Unlock: 0
+    Price: 1
+    UnlockType: 3
+    Name: Character 2
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 1727219574712540404, guid: 17afce9b8f378a340a8a68f61c4c666c,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: a819dbbe4c7f1d14d83e56fd0275064a, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 1
+    PriceAds: 1
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 3
+    Unlock: 0
+    Price: 5000
+    UnlockType: 5
+    Name: Character 3
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 2923487636496861619, guid: 1632c72969e7b2e43be088fcb95a68c5,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: e7a0564b5ca7d3c4eb34f5e236dec577, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 7
+    PriceCard: 3
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 4
+    Unlock: 0
+    Price: 10000
+    UnlockType: 1
+    Name: Character 4
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 4108512856310448311, guid: 937281943bf4e2449aa9d1638a9067b9,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 2872343265098f64f8fe8f121b225ac6, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 1
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 5
+    Unlock: 0
+    Price: 3
+    UnlockType: 5
+    Name: Character 5
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 7401007639149249332, guid: 63e78185800d821489ecf4f781860669,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 28337aba3f4d98d49bb76b10b52f6244, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 1
+    PriceAds: 3
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 8
+    PriceCard: 4
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0
+  - ID: 6
+    Unlock: 0
+    Price: 20000
+    UnlockType: 1
+    Name: Character 6
+    Description: 
+    Mat: {fileID: 0}
+    Type: 6
+    Source: {fileID: 3569119672658306568, guid: d872ae2cf5a31b244ba30b7a4f7e54ce,
+      type: 3}
+    Thumb: {fileID: 21300000, guid: 2daea30045105274cab224e9d9cfec46, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    FreeSpinCustom: 1
+    CurrentCard: 0
+    TargetID: 0
+    TargetType: 0

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae382363137f9445b3c2aaa78f04de8, type: 3}
+  m_Name: LanguageDataAsset
+  m_EditorClassIdentifier: 
+  type: 5
+  listItems:
+  - ID: 1
+    Price: 0
+    UnlockType: 0
+    Name: English
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: 38edba95d4f24bc438696b1a030a3273, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+  - ID: 2
+    Price: 0
+    UnlockType: 0
+    Name: French
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: 3625a13d706720b4fb5cbc3bb01a0fb6, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+  - ID: 3
+    Price: 0
+    UnlockType: 0
+    Name: Japanese
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: 1a22e620e1b4c0644bca98ae21f26113, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+  - ID: 4
+    Price: 0
+    UnlockType: 0
+    Name: Spanish
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: 0bf636a29cb81a544a3108a1e3a605a8, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+  - ID: 5
+    Price: 0
+    UnlockType: 0
+    Name: Portuguese
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: ad9d13eb1dd78bc448b24ae56f0836ad, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}
+  - ID: 6
+    Price: 0
+    UnlockType: 0
+    Name: Chinese
+    Mat: {fileID: 0}
+    Source: {fileID: 0}
+    Thumb: {fileID: 21300000, guid: 6b877a89fbb6ed8489ff55313787fa9d, type: 3}
+    ColorCode: {r: 0, g: 0, b: 0, a: 0}

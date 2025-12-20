@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46522853466",
+    "project_id": "b01-bike-stunt",
+    "storage_bucket": "b01-bike-stunt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46522853466:android:5b15a27458e88b84f71063",
+        "android_client_info": {
+          "package_name": "com.dtt.e19.moto.bike.x3m"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEM63vJ9rcj_uMS_09oyzyheXpXti1RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

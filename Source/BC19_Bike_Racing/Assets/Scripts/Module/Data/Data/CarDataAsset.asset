@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b265a5313dbb604e9795606b30289d6, type: 3}
+  m_Name: CarDataAsset
+  m_EditorClassIdentifier: 
+  listCars:
+  - ID: 1
+    Unlock: 1
+    Price: 0
+    UnlockType: 0
+    Name: Bike 1
+    Source: {fileID: 3429111752080626751, guid: 6e73191493e344b4491c73f139c8ca8f,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: b845734be43538f41b1b7afac804a75c, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 2
+    Unlock: 0
+    Price: 1
+    UnlockType: 3
+    Name: Bike 2
+    Source: {fileID: 3429111752080626751, guid: 77415dda2f4692c418df4b19871af43a,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 0f2e0fe455b91e443bb7b63146b87c86, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 3
+    Unlock: 0
+    Price: 4000
+    UnlockType: 5
+    Name: Bike 3
+    Source: {fileID: 3429111752080626751, guid: 76b4071deea33424ab9734433585f5b8,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 71341734c27a7ce49b1929b04cec8bf3, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 1
+    PriceCard: 2
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 4
+    Unlock: 0
+    Price: 1
+    UnlockType: 3
+    Name: Bike 4
+    Source: {fileID: 3429111752080626751, guid: c2e21baff6820334da97f73958951796,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 2e10c07942d5a1d4d86023dbe769e139, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 5
+    Unlock: 0
+    Price: 7000
+    UnlockType: 5
+    Name: Bike 5
+    Source: {fileID: 3429111752080626751, guid: eb02b54a0da432941889dd8f9ff4590d,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: cfe9d728f76635445badae76a53caf0b, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 2
+    PriceCard: 3
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 6
+    Unlock: 0
+    Price: 10000
+    UnlockType: 1
+    Name: Bike 6
+    Source: {fileID: 3429111752080626751, guid: e0423c5038f3e114bb97c05f37c4ba12,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 5369212bbb82c6b42a4f81d52df1e7f9, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 7
+    Unlock: 0
+    Price: 4
+    UnlockType: 5
+    Name: Bike 7
+    Source: {fileID: 3429111752080626751, guid: 64ccfac0e1c066a40bf5e330527f4c49,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 3301d66a325619d409ef5308963d85f9, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 3
+    PriceCard: 5
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 8
+    Unlock: 0
+    Price: 15000
+    UnlockType: 1
+    Name: Bike 8
+    Source: {fileID: 3429111752080626751, guid: 186e32c978703dc47bc8981928edb13d,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 67da8ff549611b2458f79f4040967089, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 2
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 9
+    Unlock: 0
+    Price: 20000
+    UnlockType: 5
+    Name: Bike 9
+    Source: {fileID: 3429111752080626751, guid: c88075ccb2555924fbf042fd8dd141dc,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 705b45a572eec97458fc47a46a982bc4, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 4
+    PriceCard: 6
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 10
+    Unlock: 0
+    Price: 3
+    UnlockType: 3
+    Name: Bike 10
+    Source: {fileID: 3429111752080626751, guid: 79fb94e8c63545b45a647c97d0771919,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 070c5103d41307f449c6da0b5cc73111, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 11
+    Unlock: 0
+    Price: 25000
+    UnlockType: 5
+    Name: Bike 11
+    Source: {fileID: 3429111752080626751, guid: a97074298a18f21418b672e04959a96b,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: d7f7167c7a0c07c44b752cd96999723a, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 5
+    PriceCard: 7
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 12
+    Unlock: 0
+    Price: 30000
+    UnlockType: 1
+    Name: Bike 12
+    Source: {fileID: 3429111752080626751, guid: 80b282fa4558a064aa3129c79a4ac707,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 308f5fa03dc41bc4c880e5de877f5b77, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 3
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 13
+    Unlock: 0
+    Price: 35000
+    UnlockType: 5
+    Name: Bike 13
+    Source: {fileID: 3429111752080626751, guid: dd661e08bd8bb9d46b3a7e91d5dc2216,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 2e3999abdc141fd40903b4260c3aa0b2, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 1
+    CardId: 6
+    PriceCard: 8
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 14
+    Unlock: 0
+    Price: 3
+    UnlockType: 3
+    Name: Bike 14
+    Source: {fileID: 3429111752080626751, guid: f93134f48d460a542883553b1c30611f,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: fd8533aec84411242a3d7a9c0e9e947e, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 0
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0
+  - ID: 15
+    Unlock: 0
+    Price: 40000
+    UnlockType: 1
+    Name: Bike 15
+    Source: {fileID: 3429111752080626751, guid: 5d6e89b560a5c78469555e73dbc70a3c,
+      type: 3}
+    CarGhost: {fileID: 0}
+    BaseColor: 0
+    CurrentColor: 0
+    Thumb: {fileID: 21300000, guid: 65abf5a38ea09054688eef6f87cb855a, type: 3}
+    Description: 
+    UnlockByAds: 0
+    PriceAds: 4
+    CurrentAds: 0
+    UnlockByCard: 0
+    CardId: 0
+    PriceCard: 0
+    CurrentCard: 0
+    FreeSpinCustom: 1
+    Mass: 0

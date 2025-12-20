@@ -1,0 +1,18 @@
+{
+    "name": "Terrain25DEditor",
+    "references": [
+        "GUID:f2f5b768db43cf148bb46635d7685498",
+        "GUID:81769149c12faba49861f51e35f784c3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

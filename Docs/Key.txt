@@ -1,0 +1,44 @@
+AppsFlyer Key			Qhno4yJY6KHmZp9uS9DRe4
+Token Key			
+Android	Name Device		Moto Bike 3XM
+	BundleID		
+	Link		
+	Firebase		https://console.firebase.google.com/project/bc19-bike-stunt-2-5d/overview?hl=vi
+	IronSource Key		17c5cfd35
+	Admob Key		ca-app-pub-5904408074441373~3291656015
+	Admob Backup Banner		ca-app-pub-5904408074441373/1871882694
+	Admob Banner Vuông		ca-app-pub-5904408074441373/6471906015
+	Admob Backup Interstitial		ca-app-pub-5904408074441373/1336658082
+	Admob Backup Reward		ca-app-pub-5904408074441373/2610249291
+	Admob Open Ad		ca-app-pub-5904408074441373/3388106352
+	Admob Native ads		
+	Facebook Id		690183459171231
+	Max Key		
+	Max Banner		
+	Max Interstitial		
+	Max Reward		
+iOS	Name		
+	BundleID		
+	Link		
+	Firebase		
+	IronSource Key		17dab9d3d
+	Admob Key		ca-app-pub-5904408074441373~4070965774
+	Admob Backup Banner		ca-app-pub-5904408074441373/4481480577
+	Admob Banner Vuông		ca-app-pub-5904408074441373/3168398902
+	Admob Backup Interstitial		ca-app-pub-5904408074441373/1304652898
+	Admob Backup Reward		ca-app-pub-5904408074441373/6916072227
+	Admob Open Ad		ca-app-pub-5904408074441373/8229153896
+	Admob Native ads		ca-app-pub-5904408074441373/7678489551
+	Facebook Id		
+	Max Key		
+
+Update 07/03/2023
+Android Moto Bike Race : 3XM Game Adnroid
+Id admob: ca-app-pub-5904408074441373~3291656015
+
+Open ads: ca-app-pub-5904408074441373/8304254988
+Inter Splash: ca-app-pub-5904408074441373/5869663335
+banner First open: ca-app-pub-5904408074441373/3519935811
+Banner Vuong: ca-app-pub-5904408074441373/2206854148
+Inter backup: ca-app-pub-5904408074441373/3243499992
+Reward backup: ca-app-pub-5904408074441373/5678091649

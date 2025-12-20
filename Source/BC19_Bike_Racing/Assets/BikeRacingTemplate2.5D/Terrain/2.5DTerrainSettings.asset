@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2802322c1c89238499cbeeddd73d5aeb, type: 3}
+  m_Name: 2.5DTerrainSettings
+  m_EditorClassIdentifier: 
+  DefaultMaterial: {fileID: 2100000, guid: 568a0fb0c2273a64e9373c0f799a0b5f, type: 2}
+  AddColor: {r: 1, g: 1, b: 1, a: 1}
+  SubtractColor: {r: 1, g: 0.6, b: 0.6, a: 1}
+  CombinedColor: {r: 0, g: 1, b: 0, a: 1}
+  ShowLabels: 0
+  AddCurvePointKey: 110
+  HandleTypeNoneKey: 0
+  HandleTypeBrokenKey: 0
+  HandleTypeMirroredKey: 0
+  ShowIcon: 1
+  ShowLogs: 0
+  CollapseHierarchyAfterSplineEdit: 1

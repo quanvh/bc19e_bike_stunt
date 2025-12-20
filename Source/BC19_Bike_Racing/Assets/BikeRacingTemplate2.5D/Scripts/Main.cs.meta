@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 22789a1913f9a214ab2713b8a8d7a475
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SaveGameProvider: {instanceID: 0}
+  - LevelDataProvider: {fileID: 11400000, guid: 36386726e11d1a949bd6409c2e5f5bca,
+      type: 2}
+  - BikeAndCharacterPrefab: {instanceID: 0}
+  - MainCamera: {instanceID: 0}
+  - LoadingScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
