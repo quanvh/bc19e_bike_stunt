@@ -125,8 +125,7 @@ namespace Bacon
                     imgFill.transform.parent.gameObject.SetActive(false);
 
                     FirebaseLogger.RegularEvent("Finish_loading");
-                    //AdsController.Instance.ShowInterSplash(() => LoadGame());
-                    LoadGame();
+                    AdsController.Instance.ShowInterSplash(() => LoadGame());
                 }
                 else
                 {

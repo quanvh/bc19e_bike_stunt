@@ -16,9 +16,9 @@ MonoBehaviour:
   clientTokens:
   - 
   appIds:
-  - 0
+  - 1195936318600420
   appLabels:
-  - App Name
+  - Bike Stunt
   cookie: 1
   logging: 1
   status: 1

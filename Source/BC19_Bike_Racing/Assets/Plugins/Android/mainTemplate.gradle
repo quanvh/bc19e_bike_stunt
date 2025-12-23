@@ -12,14 +12,10 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12
     implementation 'androidx.lifecycle:lifecycle-process:2.6.2' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:17
     implementation 'com.android.billingclient:billing:8.0.0' // Assets/Scripts/Module/Ads/Editor/UnityIAPDependencies.xml:12
-    implementation 'com.android.installreferrer:installreferrer:2.1' // Assets/AppsFlyer/Editor/AppsFlyerDependencies.xml:7
     implementation 'com.android.support:appcompat-v7:25.3.1' // Facebook.Unity.Editor.AndroidSupportLibraryResolver.addSupportLibraryDependency
     implementation 'com.android.support:cardview-v7:25.3.1' // Facebook.Unity.Editor.AndroidSupportLibraryResolver.addSupportLibraryDependency
     implementation 'com.android.support:customtabs:25.3.1' // Facebook.Unity.Editor.AndroidSupportLibraryResolver.addSupportLibraryDependency
     implementation 'com.android.support:support-v4:25.3.1' // Facebook.Unity.Editor.AndroidSupportLibraryResolver.addSupportLibraryDependency
-    implementation 'com.appsflyer:af-android-sdk:6.17.0' // Assets/AppsFlyer/Editor/AppsFlyerDependencies.xml:5
-    implementation 'com.appsflyer:purchase-connector:2.1.0' // Assets/AppsFlyer/Editor/AppsFlyerDependencies.xml:8
-    implementation 'com.appsflyer:unity-wrapper:6.17.0' // Assets/AppsFlyer/Editor/AppsFlyerDependencies.xml:6
     implementation 'com.facebook.android:facebook-applinks:[18.0.0,19)' // Assets/FacebookSDK/Plugins/Editor/Dependencies.xml:6
     implementation 'com.facebook.android:facebook-core:[18.0.0,19)' // Assets/FacebookSDK/Plugins/Editor/Dependencies.xml:5
     implementation 'com.facebook.android:facebook-gamingservices:[18.0.0,19)' // Assets/FacebookSDK/Plugins/Editor/Dependencies.xml:9

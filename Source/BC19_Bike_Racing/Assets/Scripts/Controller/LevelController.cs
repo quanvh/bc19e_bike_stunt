@@ -252,8 +252,7 @@ public class LevelController : MonoBehaviour
         CurrentLevel.Star = CalculateStar();
         //Play Audio, wait for sound and parking icon animation
         yield return new WaitForSeconds(0.6f);
-        //GetComponent<LoadingInter>().ShowInter("Level_Complete", () => UIManager.Instance.ShowPopup<UIComplete>());
-        UIManager.Instance.ShowPopup<UIComplete>();
+        GetComponent<LoadingInter>().ShowInter("Level_Complete", () => UIManager.Instance.ShowPopup<UIComplete>());
     }
 
 
@@ -282,27 +281,18 @@ public class LevelController : MonoBehaviour
 
     public void ShowAdsFail()
     {
-        //GetComponent<LoadingInter>().ShowInter("Level_Fail", () =>
-        //{
-        //    if (_player.currentLevel == 1)
-        //    {
-        //        FirebaseLogger.LevelRevive(_player.currentMode, _player.currentLevel, _player.currentCar);
-        //        ContinueGame();
-        //    }
-        //    else
-        //    {
-        //        UIManager.Instance.ShowPopup<UIFail>();
-        //    }
-        //});
-        if (_player.currentLevel == 1)
+        GetComponent<LoadingInter>().ShowInter("Level_Fail", () =>
         {
-            FirebaseLogger.LevelRevive(_player.currentMode, _player.currentLevel, _player.currentCar);
-            ContinueGame();
-        }
-        else
-        {
-            UIManager.Instance.ShowPopup<UIFail>();
-        }
+            if (_player.currentLevel == 1)
+            {
+                FirebaseLogger.LevelRevive(_player.currentMode, _player.currentLevel, _player.currentCar);
+                ContinueGame();
+            }
+            else
+            {
+                UIManager.Instance.ShowPopup<UIFail>();
+            }
+        });
     }
 
     private const float time3Star = 5f;

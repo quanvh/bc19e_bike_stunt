@@ -130,7 +130,7 @@ namespace Bacon
         [SerializeField] AdmobNativeUI bannerAd;
         public void ShowNativeDefault()
         {
-            if (bannerAd == null) return;
+            //if (bannerAd == null) return;
             _timeStartBanner = Time.time;
             if (RemoveAds || DisabledAds || !UseAdmobBanner)
             {
@@ -274,7 +274,7 @@ namespace Bacon
                 if (UseNativeBanner)
                 {
                     _nativebannerShowing = true;
-                    //ShowNativeDefault();
+                    ShowNativeDefault();
                 }
                 else
                 {
